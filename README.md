@@ -26,7 +26,7 @@
    <img style="pointer-events: none;" src="https://img.shields.io/badge/swift-%23ED8B00.svg?style=for-the-badge&logo=swift&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/UIKit-0078D6?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/MVC-c600c7?style=for-the-badge&logoColor=white">
-   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVP-800080?style=for-the-badge&logoColor=white">
+   <img style="pointer-events: none;" src="https://img.shields.io/badge/MVP-FF1493?style=for-the-badge&logoColor=white">
    <img style="pointer-events: none;" src="https://img.shields.io/badge/CoreData-039BE5?style=for-the-badge&logo=CoreData&logoColor=FFCC2F">
    </br>
    <img style="pointer-events: none;" src="https://img.shields.io/badge/AutoLayout-0078D6?style=for-the-badge&logoColor=white">
